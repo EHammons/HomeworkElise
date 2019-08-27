@@ -3,7 +3,7 @@ body {
     padding: 0;
     background-color: #efeee7;
     color: #333333;
-    font-style: Georgia,"Times New Roman",Times,serif;
+    font-family: Georgia,"Times New Roman",Times,serif;
 }
 header {
     background-color: #333333;
